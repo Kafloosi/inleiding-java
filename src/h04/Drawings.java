@@ -21,12 +21,12 @@ public class Drawings extends Applet
         g.setColor(Color.black);
         g.drawArc(120, 40,80,50,360, 360);
 
-        g.setColor(Color.magenta);
+        g.setColor(Color.yellow);
         g.fillArc(120, 110, 80, 50, 360, 360);
 
         g.setColor(Color.black);
         g.drawArc(220, 40, 80, 50, 360, 360);
-        g.setColor(Color.magenta);
+        g.setColor(Color.green);
         g.fillArc(220, 40, 80, 50, 90, 45);
 
         g.setColor(Color.black);
