@@ -1,6 +1,5 @@
 package h08;
 
-import javax.swing.*;
 import java.awt.*;
 import java.applet.Applet;
 import java.awt.event.*;
@@ -15,7 +14,7 @@ public class TextButtons extends Applet
 
     public void init()
     {
-        text = new TextField("", 40);
+        text = new TextField(" ", 40);
         button = new Button("ok");
         button.addActionListener(new ButtonListener());
         add(text);
