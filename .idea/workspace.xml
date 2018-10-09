@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9021992b-dc1e-419c-9c2e-66511038aa28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Challenge_28_09_2018/Pub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge_28_09_2018/WorldTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h10/GoodGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/FiftyCircles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/FiveCircles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/HundredCircles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/MoreMultiplications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Multiplications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h10/GradesAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h10/GradesAverage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,70 +26,71 @@
     <session id="234129428">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="3" />
           <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="91" />
+          <entry key="java" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="91" />
+          <entry key="JAVA" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="4" />
-          <entry key="java" value="19565" />
+          <entry key="dummy" value="17" />
+          <entry key="java" value="22290" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19565" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="JAVA" value="22290" />
+          <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/WorldTimes.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h11/Chess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+            <state relative-caret-position="595">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1538143723932" expanded="true" signature="2647:2673" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/Pub.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/h11/MoreMultiplications.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1666">
-              <caret line="129" column="5" selection-start-line="129" selection-start-column="5" selection-end-line="129" selection-end-column="5" />
+            <state relative-caret-position="487">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#init#0;class#Pub#0" />
               </folding>
             </state>
           </provider>
@@ -135,6 +144,19 @@
         <option value="$PROJECT_DIR$/src/h10/GradesAverage.java" />
         <option value="$PROJECT_DIR$/src/Challenge_28_09_2018/Pub.java" />
         <option value="$PROJECT_DIR$/src/Challenge_28_09_2018/WorldTimes.java" />
+        <option value="$PROJECT_DIR$/src/h10/GoodGrades.java" />
+        <option value="$PROJECT_DIR$/src/h11/Lines.java" />
+        <option value="$PROJECT_DIR$/src/h11/Numbers.java" />
+        <option value="$PROJECT_DIR$/src/h11/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/h11/Multiplications.java" />
+        <option value="$PROJECT_DIR$/src/h11/block.java" />
+        <option value="$PROJECT_DIR$/src/h11/Blocks.java" />
+        <option value="$PROJECT_DIR$/src/h11/FivtyCircles.java" />
+        <option value="$PROJECT_DIR$/src/h11/FiftyCircles.java" />
+        <option value="$PROJECT_DIR$/src/h11/FiveCircles.java" />
+        <option value="$PROJECT_DIR$/src/h11/HundredCircles.java" />
+        <option value="$PROJECT_DIR$/src/h11/Chess.java" />
+        <option value="$PROJECT_DIR$/src/h11/MoreMultiplications.java" />
       </list>
     </option>
   </component>
@@ -156,7 +178,6 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,24 +194,19 @@
               <item name="inleiding-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenge_28_09_2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inleiding-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="h08" type="462c0819:PsiDirectoryNode" />
+              <item name="h11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538298071169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539071119649" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Inleiding.Java" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
@@ -211,56 +227,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.WorldTimes">
-    <configuration name="GradesAverage" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.GradesAverage" />
+  <component name="RunManager" selected="Applet.MoreMultiplications">
+    <configuration name="Chess" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Chess" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonthYearNumbers" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.MonthYearNumbers" />
+    <configuration name="FiftyCircles" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.FiftyCircles" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pub" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Challenge_28_09_2018.Pub" />
+    <configuration name="FiveCircles" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.FiveCircles" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorldTimes" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Challenge_28_09_2018.WorldTimes" />
+    <configuration name="HundredCircles" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.HundredCircles" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anwarboi" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.anwarboi" />
+    <configuration name="MoreMultiplications" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.MoreMultiplications" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.MonthYearNumbers" />
-      <item itemvalue="Applet.GradesAverage" />
-      <item itemvalue="Applet.anwarboi" />
-      <item itemvalue="Applet.Pub" />
-      <item itemvalue="Applet.WorldTimes" />
+      <item itemvalue="Applet.FiveCircles" />
+      <item itemvalue="Applet.FiftyCircles" />
+      <item itemvalue="Applet.HundredCircles" />
+      <item itemvalue="Applet.Chess" />
+      <item itemvalue="Applet.MoreMultiplications" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.WorldTimes" />
-        <item itemvalue="Applet.Pub" />
-        <item itemvalue="Applet.GradesAverage" />
-        <item itemvalue="Applet.anwarboi" />
-        <item itemvalue="Applet.MonthYearNumbers" />
+        <item itemvalue="Applet.MoreMultiplications" />
+        <item itemvalue="Applet.Chess" />
+        <item itemvalue="Applet.HundredCircles" />
+        <item itemvalue="Applet.FiveCircles" />
+        <item itemvalue="Applet.FiftyCircles" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +307,15 @@
       <workItem from="1537443412247" duration="13050000" />
       <workItem from="1538037631749" duration="17363000" />
       <workItem from="1538143564603" duration="155000" />
-      <workItem from="1538297811157" duration="247000" />
+      <workItem from="1538297811157" duration="350000" />
+      <workItem from="1538377081643" duration="5684000" />
+      <workItem from="1538461295305" duration="3323000" />
+      <workItem from="1538549067108" duration="1760000" />
+      <workItem from="1538635732732" duration="1573000" />
+      <workItem from="1538721070918" duration="5471000" />
+      <workItem from="1538980627154" duration="1340000" />
+      <workItem from="1539003512984" duration="60000" />
+      <workItem from="1539070424057" duration="978000" />
     </task>
     <task id="LOCAL-00001" summary="yeet">
       <created>1535534869177</created>
@@ -328,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537262238713</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="yeet">
+      <created>1538298122825</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538298122825</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -340,12 +371,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90748000" />
+    <option name="totallyTimeSpent" value="111040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15033557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12147651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -668,24 +700,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/WorldTimes.java">
+    <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/WorldTimes.java" />
+    <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/Pub.java" />
+    <entry file="file://$PROJECT_DIR$/src/h10/GoodGrades.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Lines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Multiplications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Blocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/FiveCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/HundredCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/FiftyCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Chess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1538143723932" expanded="true" signature="2647:2673" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/Pub.java">
+    <entry file="file://$PROJECT_DIR$/src/h11/MoreMultiplications.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="129" column="5" selection-start-line="129" selection-start-column="5" selection-end-line="129" selection-end-column="5" />
+        <state relative-caret-position="487">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#init#0;class#Pub#0" />
           </folding>
         </state>
       </provider>
