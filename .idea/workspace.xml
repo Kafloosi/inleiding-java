@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9021992b-dc1e-419c-9c2e-66511038aa28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/h10/GoodGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Blocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Chess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/FiftyCircles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/FiveCircles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/HundredCircles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Lines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/MoreMultiplications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Multiplications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h11/MoreMultiplications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/MoreMultiplications.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,83 +16,60 @@
     <session id="234129428">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="3" />
           <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="103" />
+          <entry key="java" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="103" />
+          <entry key="JAVA" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="java" value="22290" />
+          <entry key="java" value="22368" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22290" />
+          <entry key="JAVA" value="22368" />
           <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h11/Chess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/h11/MoreMultiplications.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -167,9 +134,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+    <option name="x" value="2550" />
+    <option name="y" value="-11" />
+    <option name="width" value="717" />
+    <option name="height" value="398" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -177,7 +145,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,24 +157,19 @@
               <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="inleiding-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="h11" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539071119649" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Inleiding.Java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539589626849" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -227,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.MoreMultiplications">
+  <component name="RunManager" selected="Applet.Counter">
     <configuration name="Chess" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h11.Chess" />
       <module name="inleiding-java" />
@@ -235,8 +197,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiftyCircles" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.FiftyCircles" />
+    <configuration name="Counter" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.Counter" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -265,18 +227,18 @@
     </configuration>
     <list>
       <item itemvalue="Applet.FiveCircles" />
-      <item itemvalue="Applet.FiftyCircles" />
       <item itemvalue="Applet.HundredCircles" />
       <item itemvalue="Applet.Chess" />
       <item itemvalue="Applet.MoreMultiplications" />
+      <item itemvalue="Applet.Counter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Counter" />
         <item itemvalue="Applet.MoreMultiplications" />
         <item itemvalue="Applet.Chess" />
         <item itemvalue="Applet.HundredCircles" />
         <item itemvalue="Applet.FiveCircles" />
-        <item itemvalue="Applet.FiftyCircles" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +277,10 @@
       <workItem from="1538721070918" duration="5471000" />
       <workItem from="1538980627154" duration="1340000" />
       <workItem from="1539003512984" duration="60000" />
-      <workItem from="1539070424057" duration="978000" />
+      <workItem from="1539070424057" duration="1610000" />
+      <workItem from="1539082152779" duration="597000" />
+      <workItem from="1539246063742" duration="2201000" />
+      <workItem from="1539584275329" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="yeet">
       <created>1535534869177</created>
@@ -359,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538298122825</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="yeet">
+      <created>1539071437693</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539071437693</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -371,13 +343,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111040000" />
+    <option name="totallyTimeSpent" value="115165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12147651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -693,13 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h08/Counter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/WorldTimes.java" />
     <entry file="file://$PROJECT_DIR$/src/Challenge_28_09_2018/Pub.java" />
     <entry file="file://$PROJECT_DIR$/src/h10/GoodGrades.java">
@@ -765,20 +729,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h11/Chess.java">
+    <entry file="file://$PROJECT_DIR$/src/h08/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="935">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h11/MoreMultiplications.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        <state relative-caret-position="680">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Chess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -25,7 +25,7 @@ public class MoreMultiplications extends Applet
 
     public void paint(Graphics g)
     {
-
+        g.drawString(textOut, 20, 20);
     }
 
     class MultiplicationListener implements ActionListener
@@ -38,8 +38,8 @@ public class MoreMultiplications extends Applet
 
             if (numberInput == 1)
             {
-                numberInput = n01;
-                
+                n01 = numberInput;
+                textOut = "" + n01 * n02;
             }
         }
     }
